@@ -7,5 +7,6 @@
     "[C]":{
         "files.autoGuessEncoding": false,
         "files.encoding": "iso88591"
-    }
+    },
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
 }
