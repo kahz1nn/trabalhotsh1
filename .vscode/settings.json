@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "*.c": "c"
+    },
+    "[C]":{
+        "files.autoGuessEncoding": false,
+        "files.encoding": "iso88591"
+    }
+}
